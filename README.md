@@ -60,7 +60,7 @@ java -jar shop-tde.jar search input_search.json output_search.json
 **Запуск:**
 
 ```sh
-java -jar shop-tde.jar stat input_stat.json output_stat.jsonZ
+java -jar shop-tde.jar stat input_stat.json output_stat.json
 ```
 
 ## Используемые технологии
