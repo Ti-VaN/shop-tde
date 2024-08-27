@@ -1,0 +1,17 @@
+{
+  "criterias": [
+    {
+      "lastName": "Fedorov"
+    },
+    {
+      "productName": "Moloko", "minTimes": 1
+    },
+    {
+      "minExpenses": 50,
+      "maxExpenses": 300
+    },
+    {
+      "badCustomers": 2
+    }
+  ]
+}
